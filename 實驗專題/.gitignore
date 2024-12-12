@@ -5,21 +5,4 @@
 
 # 忽略 Python 編譯檔
 *.pyc
-__pycache__/
 
-# 忽略資料庫檔案
-*.db
-
-# 忽略其他不必要的檔案和資料夾
-1.pdf
-1106.py.txt
-1106.txt
-1111azure.txt
-1205/
-ChatServer_with_Socket_Python/
-LineBot/
-WebUI/
-ngrok*
-test/
-*.txt
-*.io/
